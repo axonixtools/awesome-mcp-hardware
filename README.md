@@ -21,6 +21,8 @@ Awesome list of MCP servers & clients for interacting with hardware and the phys
 - [scope-mcp](https://github.com/Netlist-Studio/scope-mcp) - An MCP server for controlling a Keysight/Agilent oscilloscope over Ethernet from Claude Code ([video](https://youtu.be/9oMwjWW3wsg?si=dA5nZt-vqYsQWq16).)
 - [stm32-mcp](https://github.com/shieldyguy/stm32-mcp) - Build, flash, and communicate with STM32 hardware over SWD and serial.
 - [saleae-logic2-mcp](https://github.com/hsoffar/saleae-logic2-mcp) - This project brings Saleae Logic 2 into AI-assisted embedded debugging.
+- [modbus-mcp](https://github.com/kukapay/modbus-mcp) - An MCP server that standardizes and contextualizes Modbus data, enabling seamless integration of AI agents with industrial IoT systems.
+- [opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems, allowing AI agents to monitor, analyze, and control operational data in real time.
 
 ## Clients
 
